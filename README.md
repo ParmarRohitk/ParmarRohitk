@@ -1,16 +1,17 @@
  Hey there! 👋
                         					<h2>Full Stack Developer</h2>
 
-Welcome to my GitHub profile. I'm a passionate and dedicated Full Stack Developer with a strong background in computer applications. I have completed my BCA (Bachelor of Computer Applications) and am currently pursuing my MCA (Master of Computer Applications). With valuable industry experience under my belt, I have honed my skills in both front-end and back-end development.
-
-Skills and Expertise
-	- Front-end Development: HTML, CSS, JavaScript, React
-	- Back-end Development: Node.js, Express.js, MongoDB, MySQL
-	- Web Development: RESTful APIs, MVC architecture, responsive design
-Version Control: Git, GitHub
-	- Problem Solving: Analytical thinking, troubleshooting, finding innovative solutions
-	- Collaboration: Teamwork, effective communication, project management
+	<p>Welcome to my GitHub profile. I'm a passionate and dedicated Full Stack Developer with a strong background in computer applications. I have completed my BCA (Bachelor of Computer Applications) and am currently pursuing my MCA (Master of Computer Applications). With valuable industry experience under my belt, I have honed my skills in both front-end and back-end development.</p>
  
+<ul>
+	<h3>Skills and Expertise</h3>
+	<li> Front-end Development: HTML, CSS, JavaScript, React </li>
+	<lI> Back-end Development: Node.js, Express.js, MongoDB, MySQL </lI>
+	<li> Web Development: RESTful APIs, MVC architecture, responsive design</li>
+<h3>Version Control: Git, GitHub</h3>
+	<li> Problem Solving: Analytical thinking, troubleshooting, finding innovative solutions </li>
+	<li> Collaboration: Teamwork, effective communication, project management </li>
+ </ul>
 What Sets Me Apart
 	I thrive on challenges and love working on diverse projects that push the boundaries of web development. My problem-solving mindset helps me identify efficient and scalable solutions, ensuring a smooth user experience. By staying up-to-date with the latest industry trends and continuously expanding my knowledge, I strive to deliver modern, user-friendly applications.
 
