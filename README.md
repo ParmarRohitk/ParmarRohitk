@@ -1,15 +1,16 @@
  Hey there! 👋
-                                  											Full Stack Developer
+                        					Full Stack Developer
 
-	Welcome to my GitHub profile. I'm a passionate and dedicated Full Stack Developer with a strong background in computer applications. I have completed my BCA (Bachelor of Computer Applications) and am currently pursuing my MCA (Master of Computer Applications). With valuable industry experience under my belt, I have honed my skills in both front-end and back-end development.
+Welcome to my GitHub profile. I'm a passionate and dedicated Full Stack Developer with a strong background in computer applications. I have completed my BCA (Bachelor of Computer Applications) and am currently pursuing my MCA (Master of Computer Applications). With valuable industry experience under my belt, I have honed my skills in both front-end and back-end development.
 
 Skills and Expertise
-	Front-end Development: HTML, CSS, JavaScript, React
-	Back-end Development: Node.js, Express.js, MongoDB, MySQL
-	Web Development: RESTful APIs, MVC architecture, responsive design
+	- Front-end Development: HTML, CSS, JavaScript, React
+	- Back-end Development: Node.js, Express.js, MongoDB, MySQL
+	- Web Development: RESTful APIs, MVC architecture, responsive design
 Version Control: Git, GitHub
-	Problem Solving: Analytical thinking, troubleshooting, finding innovative solutions
-	Collaboration: Teamwork, effective communication, project management
+	- Problem Solving: Analytical thinking, troubleshooting, finding innovative solutions
+	- Collaboration: Teamwork, effective communication, project management
+ 
 What Sets Me Apart
 	I thrive on challenges and love working on diverse projects that push the boundaries of web development. My problem-solving mindset helps me identify efficient and scalable solutions, ensuring a smooth user experience. By staying up-to-date with the latest industry trends and continuously expanding my knowledge, I strive to deliver modern, user-friendly applications.
 
@@ -20,4 +21,5 @@ Let's Connect!
 	I'm always excited to connect with fellow developers, collaborate on innovative projects, and contribute to the tech community. If you have any ideas, suggestions, or opportunities, don't hesitate to reach out. You can connect with me via the following channels:
 
 LinkedIn :- https://www.linkedin.com/in/parmar-rohit-k-2b747721b/
+
 Let's create impactful software together and make a difference in the world of web development!
