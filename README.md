@@ -1,7 +1,7 @@
- Hey there! 👋
+ <h1>Hey there! 👋</h1>
                         					<h2>Full Stack Developer</h2>
 
-	<p>Welcome to my GitHub profile. I'm a passionate and dedicated Full Stack Developer with a strong background in computer applications. I have completed my BCA (Bachelor of Computer Applications) and am currently pursuing my MCA (Master of Computer Applications). With valuable industry experience under my belt, I have honed my skills in both front-end and back-end development.</p>
+<p>Welcome to my GitHub profile. I'm a passionate and dedicated Full Stack Developer with a strong background in computer applications. I have completed my BCA (Bachelor of Computer Applications) and am currently pursuing my MCA (Master of Computer Applications). With valuable industry experience under my belt, I have honed my skills in both front-end and back-end development.</p>
  
 <ul>
 	<h3>Skills and Expertise</h3>
