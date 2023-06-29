@@ -14,13 +14,13 @@
  </ul>
  
 <h2>What Sets Me Apart</h2>
-	<pre>I thrive on challenges and love working on diverse projects that push the boundaries of web development. My problem-solving mindset helps me identify efficient and scalable solutions, ensuring a smooth user experience. By staying up-to-date with the latest industry trends and continuously expanding my knowledge, I strive to deliver modern, user-friendly applications.</pre>
+<pre>I thrive on challenges and love working on diverse projects that push the boundaries of web development. My problem-solving mindset helps me identify efficient and scalable solutions, ensuring a smooth user experience. By staying up-to-date with the latest industry trends and continuously expanding my knowledge, I strive to deliver modern, user-friendly applications.</pre>
 
 <h2>Projects and Contributions</h2>
-	<pre>Feel free to explore my GitHub repositories, where you'll find a collection of projects I have worked on. From personal projects to collaborative efforts, each repository represents my dedication and passion for creating high-quality software. You can check out my contributions, code samples, and the technologies I've employed.</pre>
+<pre>Feel free to explore my GitHub repositories, where you'll find a collection of projects I have worked on. From personal projects to collaborative efforts, each repository represents my dedication and passion for creating high-quality software. You can check out my contributions, code samples, and the technologies I've employed.</pre>
 
 <h2>Let's Connect!</h2>
-	<pre>I'm always excited to connect with fellow developers, collaborate on innovative projects, and contribute to the tech community. If you have any ideas, suggestions, or opportunities, don't hesitate to reach out. You can connect with me via the following channels:</pre>
+<pre>I'm always excited to connect with fellow developers, collaborate on innovative projects, and contribute to the tech community. If you have any ideas, suggestions, or opportunities, don't hesitate to reach out. You can connect with me via the following channels:</pre>
 
 LinkedIn :- https://www.linkedin.com/in/parmar-rohit-k-2b747721b/
 
