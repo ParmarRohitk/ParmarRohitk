@@ -23,10 +23,11 @@
 <p>I'm always excited to connect with fellow developers, collaborate on innovative projects, and contribute to the tech community. If you have any ideas, suggestions, or opportunities, don't hesitate to reach out. You can connect with me via the following channels:</p>
 
 Connect On Social Media
-
- [LinkedIn](https://www.linkedin.com/in/parmar-rohit-k-2b747721b/)
- [Insta](https://www.instagram.com/_prk_design_/)
- [youtube](https://www.youtube.com/@prkdesign)
+<ul>
+<li> [LinkedIn](https://www.linkedin.com/in/parmar-rohit-k-2b747721b/) </li>
+<li> [Insta](https://www.instagram.com/_prk_design_/) </li>
+<li> [youtube](https://www.youtube.com/@prkdesign) </li>
+</ul>
 
 👉 Rich Out My Site [PRK](prk.vercel.app)
 
