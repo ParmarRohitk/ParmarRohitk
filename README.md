@@ -22,7 +22,13 @@
 <h2>Let's Connect!</h2>
 <p>I'm always excited to connect with fellow developers, collaborate on innovative projects, and contribute to the tech community. If you have any ideas, suggestions, or opportunities, don't hesitate to reach out. You can connect with me via the following channels:</p>
 
-[LinkedIn](https://www.linkedin.com/in/parmar-rohit-k-2b747721b/)
+Connect On Social Media
 
-Rich Out My Site [PRK](prk.vercel.app)
+ [LinkedIn](https://www.linkedin.com/in/parmar-rohit-k-2b747721b/)
+ [Insta](https://www.instagram.com/_prk_design_/)
+ [youtube](https://www.youtube.com/@prkdesign)
+
+👉 Rich Out My Site [PRK](prk.vercel.app)
+
+
 Let's create impactful software together and make a difference in the world of web development!
