@@ -52,7 +52,8 @@ Each repository reflects my dedication to clean, maintainable, and modern code.
 - [LinkedIn](https://www.linkedin.com/in/parmar-rohit-k-2b747721b/)  
 - [Instagram](https://www.instagram.com/_prk_design_/)  
 - [YouTube](https://www.youtube.com/@prkdesign)  
-- 👉 Visit My Portfolio: [PRK](https://prk.vercel.app)  
+- 👉 Visit My Portfolio: [PRK Portfolio](https://parmarrohitk-in.vercel.app/)
+   [PRK](https://prk.vercel.app)  
 
 <p>
 Let’s collaborate and create impactful software that makes a real difference!  
