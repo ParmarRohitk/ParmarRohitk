@@ -5,7 +5,7 @@
 Welcome to my GitHub profile! I'm <b>Parmar Rohit K.</b>, a passionate and dedicated 
 <b>Full Stack Developer</b> with a strong background in Computer Science & IT.  
 I have completed my <b>MCA (Master of Computer Applications)</b> and bring over 
-<b>2.4 years of hands-on experience</b> in building robust, scalable, and modern web applications.  
+<b>3+ years of hands-on experience</b> in building robust, scalable, and modern web applications.  
 Currently, I’m working as a <b>Freelance Full Stack Developer</b>, helping businesses 
 transform their ideas into impactful digital solutions.
 </p>
